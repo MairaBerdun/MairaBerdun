@@ -1,4 +1,4 @@
-Hi! I am Maira, an Front End Developer!
+Hi! I am Maira, an Front End Developer Junior!
 
 - Actualmente estoy estudiando la tecnicatura en Programacion en la UTN.
 

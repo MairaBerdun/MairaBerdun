@@ -6,7 +6,7 @@ I am Maira, a Front End Developer Junior!
 
 . 🤔 Introducing in new technologies and developing software solutions.
 
-. 👩‍🎓 I am student of Programming at UTN.
+. 👩‍🎓 I am a programming student at UTN.
 
 . 🤓 Persuing Web Development as hobby. 
 

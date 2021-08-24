@@ -1,7 +1,20 @@
-Hi! I am Maira, an Front End Developer Junior!
+Hi there 👋
 
-- Actualmente estoy estudiando la tecnicatura en Programacion en la UTN.
+I am Maira, an Front End Developer Junior!
 
-- Mis conocimientos: HTML 5, CSS 3, Javascript y React.js
-  
+➡ 🙋‍♀️ About me
+
+. 🤔 Introducing in new technologies and developing software solutions.
+
+. 👩‍🎓 I am student of Programming at UTN.
+
+. 🤓 Persuing Web Development as hobby. 
+
+➡ 🏆 Tech Stack
+
+. 💻 Inicial React.js
+
+. ☑ HTML | CSS | Javascript | Bootstrap | Jquery
+
+. 🔧 Git | GitHub
  

@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Maira, an Front End Developer Junior!
+I am Maira, a Front End Developer Junior!
 
 ➡ 🙋‍♀️ About me
 

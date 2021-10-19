@@ -14,7 +14,7 @@ I am Maira, a Front End Developer Junior!
 
 . 💻 Inicial React.js
 
-. ☑ HTML | CSS | Javascript | Bootstrap | Jquery
+. ☑ HTML | CSS | Javascript | Bootstrap | Jquery | Material UI
 
 . 🔧 Git | GitHub
  

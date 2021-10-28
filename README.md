@@ -2,15 +2,13 @@ Hi there 👋
 
 I am Maira, a Front End Developer Junior!
 
-➡ 🙋‍♀️ About me
-
-. 🤔 Introducing in new technologies and developing software solutions.
+➡ About me
 
 . 👩‍🎓 I am a programming student at UTN.
 
 . 🤓 Persuing Web Development as hobby. 
 
-➡ 🏆 Tech Stack
+➡ Tech Stack
 
 . 💻 Inicial React.js
 

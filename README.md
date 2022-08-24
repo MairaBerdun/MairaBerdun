@@ -6,13 +6,15 @@ I am Maira!
 
 . 👩‍🎓 I am a programming student at UTN.
 
-. 🤓 Persuing Web Development as hobby. 
+. Actually, I work as data developer trainee. 
 
 ➡ Tech Stack
 
 . 💻 Inicial React.js
 
-. ☑ HTML | CSS | Javascript | Bootstrap | Jquery | Material UI
+. ☑ HTML | CSS | Javascript | Bootstrap | Jquery | Material UI | SQL 
+
+. ☑ JasperSoft Studio 
 
 . 🔧 Git | GitHub
  

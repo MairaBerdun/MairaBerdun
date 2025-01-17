@@ -1,15 +1,14 @@
 Hi there 👋
 
-I am Maira!
-
+I'm Maira!
 I am a programming student at UTN 👩‍🎓 
+Actually, I work as data developer. 
 
-Actually, I work as data developer trainee. 
-
-My tech stack: HTML | CSS | Javascript | Bootstrap | Jquery | Material UI | SQL | React.js | C | C#
-
-JasperSoft Studio | Oracle Analytics Cloud | Tableau | Power Bi 
-
+My tech stack: 
+HTML | CSS | Javascript | Bootstrap  | SQL | 
+Node.js | C 
+JasperSoft Studio | Oracle Analytics Cloud | Tableau | Azure devops
 Git | GitHub
+Postman
 
 Contact me: berdunmairabelen@gmail.com
